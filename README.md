@@ -65,6 +65,10 @@ Zdarzenia mogą być:
 
 ---
 
+💻 Tworzenie kodu aplikacji było wspomagane przy użyciu narzędzia AI.
+
+---
+
 ## 🏆 HackCarpatia
 
 Projekt przygotowany w ramach konkursu HackCarpatia 🚀
