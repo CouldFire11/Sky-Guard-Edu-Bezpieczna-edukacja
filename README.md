@@ -60,6 +60,13 @@ Zdarzenia mogą być:
 
 <img width="764" height="706" alt="Schemat blokowy połączeń drona" src="https://github.com/user-attachments/assets/f86d2d73-6904-423f-b418-05b8a664e335" />
 
+---
+
+## Link do filmu
+
+https://drive.google.com/file/d/1LDR7HLxiS2VkN4w5t2ubMJWlQUhi5tV-/view?usp=sharing
+
+---
 
 ## 👥 Zespół
 
