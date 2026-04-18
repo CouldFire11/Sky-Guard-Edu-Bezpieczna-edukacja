@@ -56,8 +56,9 @@ Zdarzenia mogą być:
 
 ---
 
-## Schemat połączeń drona
-[Schemat blokowy połączeń drona.pdf](https://github.com/user-attachments/files/26857397/Schemat.blokowy.polaczen.drona.pdf)
+## Schemat blokowy połączeń drona
+
+<img width="764" height="706" alt="Schemat blokowy połączeń drona" src="https://github.com/user-attachments/assets/f86d2d73-6904-423f-b418-05b8a664e335" />
 
 
 ## 👥 Zespół
