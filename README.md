@@ -51,6 +51,8 @@ Zdarzenia mogą być:
 * Html
 * Systemy dronowe 
 * Aplikacja webowa
+* Mikrokontroler ESP32
+* Komputer jednopłytkowy Raspberry Pi
 
 ---
 
