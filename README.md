@@ -56,6 +56,10 @@ Zdarzenia mogą być:
 
 ---
 
+## Schemat połączeń drona
+[Schemat blokowy połączeń drona.pdf](https://github.com/user-attachments/files/26857397/Schemat.blokowy.polaczen.drona.pdf)
+
+
 ## 👥 Zespół
 
 * Bartłomiej Dopart
